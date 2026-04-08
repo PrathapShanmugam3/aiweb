@@ -4,7 +4,7 @@
   "scripts": {
     "ng": "ng",
     "start": "ng serve",
-    "build": "npx ng build --output-path docs --base-href /ai-web/",
+    "build": "npx ng build --output-path docs --base-href /SrAi/",
     "watch": "ng build --watch --configuration development",
     "test": "ng test"
   },
