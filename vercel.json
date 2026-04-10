@@ -1,5 +1,5 @@
 {
-  "outputDirectory": "dist/sr-ai/browser",
+  "outputDirectory": "dist",
   "routes": [
     {
       "src": "/(.*)",
